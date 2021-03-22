@@ -2,7 +2,7 @@ Harshitha Potti
 ============
 
 -------------------     -----------------------------
-1 MyAddress                         guntur
+1 MyAddress                         Guntur
 MyTown 1000                         harshithapotti@gmail.com
 MyCountry                           India
 -------------------     ----------------------------
