@@ -2,23 +2,18 @@ Harshitha Potti
 ============
 
 -------------------     -----------------------------
-1 MyAddress                       
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 MyAddress                         guntur
+MyTown 1000                         harshithapotti@gmail.com
+MyCountry                           India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2023 (expected)
+:   ** Computer Science**;RVR & JC college of engineering
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
 
     *Minor: Awesomeology*
 
