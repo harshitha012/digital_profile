@@ -3,7 +3,7 @@ Harshitha Potti
 
 -------------------     -----------------------------
 1 MyAddress                         Guntur
-MyTown 1000                         harshithapotti@gmail.com
+email.id                    harshithapotti@gmail.com
 MyCountry                           India
 -------------------     ----------------------------
 
