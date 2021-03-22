@@ -12,4 +12,9 @@ item 2
 item 3
   *item 3a
   *item 3b
+ 
+ 
+ ![GitHub logo](/images/logo.png)
+ Format: ![Alt Text](url)
+ 
   
