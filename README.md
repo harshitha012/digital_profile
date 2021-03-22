@@ -1,9 +1,8 @@
 # digital_profile
 
-
-#1
-defunkt#1
-defunkt/github-flavored-markdown#1
+#this is an <h1> tag
+  ##this is an <h2> tag
+  ######this is an <h6> tag
 *item 1
 *item 2
  *item 2a
